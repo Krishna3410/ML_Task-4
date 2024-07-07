@@ -1,4 +1,4 @@
-# PRODIGY-ML_04
+# ML_Task-4
 Hand Gesture Recognition Model
 
 In this tutorial I've taken the dataset called sign MNIST which is type of .csv.
